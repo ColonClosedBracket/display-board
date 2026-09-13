@@ -4,14 +4,12 @@
 @import "jekyll-theme-minimal";
 
 body {
-  background-image: linear-gradient(Black, #68478D);
+  background-image: linear-gradient(black, #68478D);
   background-color: #FFFFFF; //68478D
   color: Black;
 }
 
-header1 {
+h1 {
     color: white;
     text-align: center;
 }
-
-<header1>Test title!</header1>
